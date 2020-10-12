@@ -1,0 +1,9 @@
+1.)Miss Scarlet dunnit
+2.)Professor Plum dunnit because his variable is a Const and can't be changed
+3.)Professor Plum dunnit again because though Mrs Peacock is named, her variable is inside the declareMurderer function and can't be reached outside it
+4.)The suspects are Miss Scarlet, Professor Plum and Colonel Mustard.  Mrs Peacock is also as suspect because her variable is called in a second function
+5.)The weapon is the revolver.  Because although scenario is a const and all the values inside are fixed, the weapon functions subsequently are those called and NOT the original function! HA!
+6.)Mrs White done the deed.  It's DEFINITELY something to do with where plotTwist sits in the brackets but my keen detective's mind is having some trouble.
+7.)
+8.)
+9.)I have no REAL idea the whats or hows of the last 3.  I ran them but wow...
